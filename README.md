@@ -15,8 +15,3 @@
 ## Contact me
 
 - [Discord](https://discord.com/users/888436095929434152) OR @whoman0385
-- [Twitter](https://twitter.com/sus6942o)
-
-
-
-Send me money for no reason 🙏
