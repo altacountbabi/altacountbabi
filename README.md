@@ -11,6 +11,7 @@
 - JavaScript
 - TypeScript
 - Luau
+- Go
 
 ## Contact me
 
