@@ -12,7 +12,8 @@
 - TypeScript
 - Luau
 - Go
+- Rust
 
 ## Contact me
 
-- [Discord](https://discord.com/users/888436095929434152) OR @whoman0385
+- [Discord](https://discord.com/users/1221764351493668955) OR @whoman0981
